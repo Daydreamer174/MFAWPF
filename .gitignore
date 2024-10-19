@@ -5,6 +5,7 @@
 *.suo
 *.user
 *.sln.docstates
+interface.json
 
 # Build results
 
@@ -15,7 +16,9 @@ x64/
 [Oo]bj/
 !Resource/pipeline.schema.json
 !Resource/controller_config.json
-!Resource/MaaAgentBinary/
+Resource/MaaCommonAssets/
+Resource/base/
+Resource/resource/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
